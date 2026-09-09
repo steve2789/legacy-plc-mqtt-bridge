@@ -6,7 +6,7 @@ Secure, production-grade edge telemetry integration pipelines for legacy industr
 Get full access to the complete production-grade industrial configuration schemas, validation templates, and deployment scripts (.PDF / .CSV file structures). All assets are delivered securely and asynchronously.
 
 ► ACCESS THE INDUSTRIAL SYSTEM ARCHITECTURE FILE LICENSE HERE ($500.00 USD):
-https://steve2789.gumroad.com/l/plc-mqtt-bridge
+https://slebron.gumroad.com/l/plc-mqtt-bridge
 
 ---
 
